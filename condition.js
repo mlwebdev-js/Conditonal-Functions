@@ -31,6 +31,7 @@ const condition = {
   }  
 };
 
+// The function below is only to test thr condition methods above. Can be any function.
  function functionCall(){
   console.log ("True. the condition was met.");
 }
