@@ -32,7 +32,7 @@ const condition = {
 };
 
  function functionCall(){
-  console.log ("True. a is less than or equal to b");
+  console.log ("True. the condition was met.");
 }
 
 
