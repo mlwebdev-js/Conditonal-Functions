@@ -28,7 +28,10 @@ const condition = {
   },
   isNot: function isNot(a, function2Call){
     if(!a) function2Call();
-  }  
+  },
+  isEmpty: function isEmpty(a, function2Call){
+    if(a == "" || null;
+  }
 };
 
 // The function below is only to test the condition methods above. Can be any function.
